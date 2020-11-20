@@ -1,4 +1,4 @@
-# Ustad# SIDRA5# Thuglife# Somibro# Gamz#!/usr/bin/python2
+# Ustad# SIDRA5# Thuglife# Shamim bro# Gamz#!/usr/bin/python2
 #coding=utf-8
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
@@ -81,19 +81,41 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;91m░▐█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█▄☆
-\033[1;91m░███████████████████████
-\033[1;91m░▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓▓▓▓▓▓◤
-\033[1;91m╬▀░▐▓▓▓▓▓▓▌▀█░░░█▀░
-\033[1;95m▒░░▓▓▓▓▓▓█▄▄▄▄▄█▀╬░
-\033[1;95m░░█▓▓▓▓▓▌░▒▒▒▒▒▒▒▒▒
-\033[1;95m░▐█▓▓▓▓▓░░▒▒▒▒▒▒▒▒▒
-\033[1;95m░▐██████▌╬░▒▒▒▒▒▒▒▒
 
 
-\033[1;92m▒█▀▀▀█ ▒█▀▀▀█ ▒█▀▄▀█ ▀█▀ 　 
-\033[1;97m░▀▀▀▄▄ ▒█░░▒█ ▒█▒█▒█ ▒█░ 　 
-\033[1;92m▒█▄▄▄█ ▒█▄▄▄█ ▒█░░▒█ ▄█▄ 　 
+
+ 　 
+                                                                                                                                                   
+                                                                                                                                                   
+\033[1;92m   SSSSSSSSSSSSSSS HHHHHHHHH     HHHHHHHHH               AAA               MMMMMMMM               MMMMMMMMIIIIIIIIIIMMMMMMMM               MMMMMMMM
+\033[1;92m SS:::::::::::::::SH:::::::H     H:::::::H              A:::A              M:::::::M             M:::::::MI::::::::IM:::::::M             M:::::::M
+S:::::SSSSSS::::::SH:::::::H     H:::::::H             A:::::A             M::::::::M           M::::::::MI::::::::IM::::::::M           M::::::::M
+S:::::S     SSSSSSSHH::::::H     H::::::HH            A:::::::A            M:::::::::M         M:::::::::MII::::::IIM:::::::::M         M:::::::::M
+S:::::S              H:::::H     H:::::H             A:::::::::A           M::::::::::M       M::::::::::M  I::::I  M::::::::::M       M::::::::::M
+S:::::S              H:::::H     H:::::H            A:::::A:::::A          M:::::::::::M     M:::::::::::M  I::::I  M:::::::::::M     M:::::::::::M
+ S::::SSSS           H::::::HHHHH::::::H           A:::::A A:::::A         M:::::::M::::M   M::::M:::::::M  I::::I  M:::::::M::::M   M::::M:::::::M
+  SS::::::SSSSS      H:::::::::::::::::H          A:::::A   A:::::A        M::::::M M::::M M::::M M::::::M  I::::I  M::::::M M::::M M::::M M::::::M
+    SSS::::::::SS    H:::::::::::::::::H         A:::::A     A:::::A       M::::::M  M::::M::::M  M::::::M  I::::I  M::::::M  M::::M::::M  M::::::M
+       SSSSSS::::S   H::::::HHHHH::::::H        A:::::AAAAAAAAA:::::A      M::::::M   M:::::::M   M::::::M  I::::I  M::::::M   M:::::::M   M::::::M
+            S:::::S  H:::::H     H:::::H       A:::::::::::::::::::::A     M::::::M    M:::::M    M::::::M  I::::I  M::::::M    M:::::M    M::::::M
+            S:::::S  H:::::H     H:::::H      A:::::AAAAAAAAAAAAA:::::A    M::::::M     MMMMM     M::::::M  I::::I  M::::::M     MMMMM     M::::::M
+SSSSSSS     S:::::SHH::::::H     H::::::HH   A:::::A             A:::::A   M::::::M               M::::::MII::::::IIM::::::M               M::::::M
+S::::::SSSSSS:::::SH:::::::H     H:::::::H  A:::::A               A:::::A  M::::::M               M::::::MI::::::::IM::::::M               M::::::M
+S:::::::::::::::SS H:::::::H     H:::::::H A:::::A                 A:::::A M::::::M               M::::::MI::::::::IM::::::M               M::::::M
+ SSSSSSSSSSSSSSS   HHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAAMMMMMMMM               MMMMMMMMIIIIIIIIIIMMMMMMMM               MMMMMMMM
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+
 
 \033[1;92m▒█▀▀█ ▒█▀▀█ ░█▀▀█ ▒█▄░▒█ ▒█▀▀▄ 
 \033[1;97m▒█▀▀▄ ▒█▄▄▀ ▒█▄▄█ ▒█▒█▒█ ▒█░▒█ 
